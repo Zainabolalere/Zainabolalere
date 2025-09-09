@@ -1,6 +1,6 @@
 Data Analyst | Problem Solver
 
-Data analyst focused on solving business challenges through analyticaland actionable insights. I help companies make informed decisions by transforming complex data into clear solutions.
+Data analyst focused on solving business challenges through analytical and actionable insights. I help companies make informed decisions by transforming complex data into clear solutions.
 How I Help Companies:
 
 1. Identify bottlenecks in operations and processes through data analysis
